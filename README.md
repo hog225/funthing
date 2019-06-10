@@ -1,3 +1,3 @@
-신박하고 재미있고 유용한 DIY
+#D.I.Y Code
 
-https://lifeonroom.com
+- https://lifeonroom.com/category/diy/fun-thing/
